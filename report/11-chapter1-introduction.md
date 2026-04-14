@@ -17,7 +17,30 @@ Visión: Gold Metrics busca posicionarse como la plataforma líder en trazabilid
 ## 1.1. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
+#### What?
+El problema se centra en la falta de trazabilidad confiable de minerales en el Perú, lo cual impide reconocer el origen, autenticidad y recorrido de materiales como oro u otros metales.
 
+Según la directora ejecutiva de la Sociedad Nacional de Minería, Angela Grossheim, rastrear el origen de minerales, especialmente el oro, es difícil debido al mercado informal mezclándose con el mercado formal (DesdeAdentro, 2025). Esto indica que en el sector hay incertidumbre sobre si los minerales provienen de fuentes legales, del mismo modo en el que se pueden manipular los datos de los productos lo cual incrementa el riesgo de pérdidas y/o fraude.
+
+#### Who?
+Alrededor de esta problemática se pueden identificar varios involucrados, principalmente a las empresas mineras, pues estas presentan dificultades para mantener un control claro de sus operaciones logísticas. Lo cual termina en ineficiencia operativa, fallas en las maquinarias y sobre todo pérdidas económicas y de material.
+
+Por su lado, otros actores involucrados serían las joyerías y los consumidores finales, puesto que estos buscan adquirir productos auténticos y que estos posean un origen ético. Sin embargo, al no contar con datos confiables se genera una desconfianza en el mercado alrededor del verdadero valor de ciertos productos.
+
+#### Where?
+Este problema se presenta alrededor del sector minero, como en las zonas de extracción, las etapas de transporte, el almacenamiento, procesamiento y comercialización de los minerales.
+
+#### When?
+La problemática sucede en momentos como el transporte, procesamiento y transferencia de los minerales.
+
+#### Why?
+Este problema surge por la poca implementación de tecnologías para el monitoreo y control de los minerales, siendo que varias empresas siguen usando registros manuales cuyos datos pueden ser fácilmente manipulados.
+
+#### How?
+El problema ocurre debido a la falta de seguimiento de los minerales, por lo que nuestros usuarios utilizarán la solución cuando necesiten asegurar el control y validación de los minerales.
+
+#### How much?
+Esta problemática tiene impactos en varios sectores, especialmente el económico. Según el fiscal coordinado de las Fiscalías Especializadas en Materia Ambiental, Frank Almanza, afirmó que las pérdidas económicas por minería ilegal equivale al 2,5% del PBI (Canchari, 2025). Gracias a esto, podemos deducir que la falta de trazabilidad afecta no solo a los ingresos de las empresas, sino que afecta a la economía nacional, resaltando lo importante que es el buscar una solución a dicha problemática.
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
