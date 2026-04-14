@@ -91,6 +91,17 @@ Se utiliza durante todo el proceso del ámbito minero, llendo desde la extracci�
 Debe ser intuitiva mediante el uso de dashboards, de esta manera brindara una navegación sencilla a los usuarios mientras brinda información confiable y lo suficientemente rápida como para estar a tiempo real.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+**Creemos** que una plataforma que permita monitorear en tiempo real los minerales ayudara a reducir las perdidas de minerales.
+**Sabremos que** hemos tenido éxito
+**Cuando** en los reportes de las empresas mineras disminuya la cantidad de perdidas.
+
+**Creemos** que una plataforma que pueda certificar la autenticidad de los minerales ayudara a mejorar la confianza entre tiendas y consumidores.
+**Sabremos que** hemos tenido éxito
+**Cuando** los productos con certificación sean más vendidos respecto a los productos regulares.
+
+**Creemos que** una plataforma que permita al usuario observar información de los productos en venta logrará fomentar decisiones de compra responsables.
+**Sabremos que** hemos tenido éxito
+**Cuando** calculemos el tiempo de visualización de información como una estadística.
 
 #### 1.2.2.4. Lean UX Canvas
 ![Lean UX Canvas Goldmetrics](../assets/img/chapter-i/LeanUXCanvas.png)
