@@ -244,7 +244,9 @@ Por otro lado, el 100% de los entrevistados valora el origen ético de los produ
 
 
 ## 2.3. Needfinding
-Pequeña introduccion
+Para llevar a cabo el proceso de needfinding en GoldCheck, se realizaron entrevistas en profundidad con usuarios pertenecientes a los segmentos objetivo, incluyendo consumidores finales, joyeros y profesionales del sector minero. Estas conversaciones se centraron en comprender sus hábitos, objetivos y principales frustraciones relacionadas con la autenticidad, trazabilidad y confianza en la comercialización de joyas y minerales.
+
+Gracias a esta exploración, se identificaron áreas críticas de mejora, como la falta de transparencia en el origen de los materiales, la baja confianza en los productos adquiridos y la limitada adopción de herramientas digitales en los procesos del sector minero. Asimismo, se evidenció la existencia de brechas tanto tecnológicas como informativas que afectan la toma de decisiones de los usuarios. Durante las entrevistas, surgieron patrones y necesidades recurrentes, como la importancia de contar con un sistema confiable que permita verificar la autenticidad, procedencia y valor real de los productos. De esta manera, se logra identificar una oportunidad clara para desarrollar una solución como GoldCheck, que facilite el acceso a información validada y mejore la confianza en la cadena de valor.
 
 ### 2.3.1. User Personas
 
