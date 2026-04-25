@@ -61,6 +61,20 @@ Para mejorar la visibilidad y estructuración del sistema web, se implementan la
   - `/reportes`
 
 ### 4.2.4. Searching Systems
+El sistema incorpora mecanismos de búsqueda que permiten acceder rápidamente a información específica:
+
+- **Búsqueda por:**
+  - ID del mineral  
+  - Código QR  
+  - Unidad de maquinaria  
+  - Ubicación  
+
+- **Filtros avanzados:**
+  - Fecha  
+  - Estado (activo, en mantenimiento, falla)  
+  - Tipo de mineral  
+
+- **Resultados en tiempo real**, facilitando la toma de decisiones operativas.
 
 ### 4.2.5. Navigation Systems
 
