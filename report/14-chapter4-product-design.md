@@ -39,7 +39,11 @@
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level EventStorming
+**EventStorming**
+![EventStorming](../assets/img/chapter-iv/event-storming-goldmetrics.jpg)
 
+Para visualizar el EventStorming de mejor manera recomendamos ingresar al siguiente link:
+[Visualizar EventStorming en Miro](https://miro.com/app/board/uXjVJeWDqwE=/?share_link_id=757586972674)
 ### 4.6.2. Software Architecture Context Diagram
 
 ### 4.6.3. Software Architecture Container Diagrams
