@@ -14,7 +14,22 @@ En ese sentido, se establecen los siguientes lineamientos generales:
 
 ### 4.1.2. Web Style Guidelines
 Los lineamientos visuales de GoldMetrics están orientados a facilitar la interpretación de datos complejos en entornos operativos, asegurando usabilidad y accesibilidad.
-- Paleta de colores: (RELLENAR)
+- Paleta de colores:
+  - **Gris oscuro (#3A3E40):** representa estabilidad, tecnología y entornos industriales. Se utiliza como color principal en barras de navegación y encabezados.  
+
+  - **Dorado claro (#E1D094):** evoca el valor del mineral (oro) y aporta identidad visual. Puede usarse en elementos destacados.  
+
+  - **Dorado medio (#B4944E):** refuerza la identidad minera del sistema, ideal para botones principales o indicadores importantes.  
+
+  - **Dorado oscuro (#9E8354):** utilizado para variaciones de estado o elementos secundarios dentro de la misma gama cromática.  
+
+  - **Blanco grisáceo (#F2F2F2):** empleado como fondo principal para mantener claridad visual y legibilidad.  
+
+  - **Verde (#28A745):** indica estados correctos o funcionamiento adecuado del sistema.  
+
+  - **Rojo (#DC3545):** representa fallas, errores o alertas críticas.  
+
+  - **Amarillo (#FFC107):** indica advertencias o estados intermedios, como mantenimiento próximo.
 - Tipografía:
   - Se utilizarán fuentes sans-serif (Como Arial o Roboto por su alta legibilidad).
 
