@@ -10,8 +10,27 @@
 La arquitectura de la información de GoldMetrics ha sido definida con el objetivo de optimizar el acceso, organización y comprensión de la información, en función de las necesidades identificadas en el proceso de Lean UX.
 
 ### 4.2.1. Organization Systems
+El sistema organiza la información mediante diferentes enfoques complementarios:
+- Organización jerárquica:
+  - Un dashboard principal como punto de entrada.
+  - Módulos específicos: Trazabilidad, Mantenimiento y Reportes.
+- Organización por roles:
+  - Empresas mineras: gestión operativa y monitoreo
+- Consumidores: consulta de información del producto
+Este enfoque responde directamente a la segmentación de usuarios definida en el proyecto.
+- Organización por procesos:
+  - Extracción --> Transporte --> Procesamiento --> Comercialización
+  Permite representar el cilo de vida del mineral.
+- Organización por daots:
+  - Flota de maquinaria
+  - Ubicación
+  - Estado operativo
+  - Historial de eventos
 
+Facilitando el análisi y la toma de decisiones
 ### 4.2.2. Labeling Systems
+
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
