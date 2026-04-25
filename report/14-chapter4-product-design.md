@@ -40,8 +40,25 @@ El sistema utiliza etiquetas claras, consistentes y orientadas al usuario:
 
 Estas etiquetas han sido definidas para facilitar la comprensión y navegación, evitando terminología técnica innecesaria
 
-
 ### 4.2.3. SEO Tags and Meta Tags
+Para mejorar la visibilidad y estructuración del sistema web, se implementan las siguientes prácticas:
+
+- `<title>`: Goldmetrics - Plataforma de trazabilidad minera  
+- `<meta name="description">`: Plataforma que permite monitorear, analizar y validar minerales en tiempo real mediante IoT e inteligencia artificial.  
+- `<meta name="keywords">`: trazabilidad minera, monitoreo de minerales, IoT minería, minería Perú  
+
+**Adicionalmente:**
+
+- Uso adecuado de encabezados:
+  - `<h1>`
+  - `<h2>`
+  - `<h3>`
+
+- URLs estructuradas:
+  - `/dashboard`
+  - `/trazabilidad`
+  - `/mantenimiento`
+  - `/reportes`
 
 ### 4.2.4. Searching Systems
 
