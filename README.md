@@ -24,7 +24,7 @@
 | INTEGRANTES | CÓDIGO |
 | :---: | :---: |
 | Armestar Felipa, Adiran Andres | U202410084 |
-| García Paredes, Victor Manuel | U |
+| García Paredes, Victor Manuel | U202012001 |
 | Navarro Aldoradin, Carolina Celeste  | U20241B962 |
 | Philco Mota, Katty Yolanda | U202416107 |
 | Tuesta Girón, Kiara Lucia | U |
