@@ -298,6 +298,10 @@ Durante el Sprint 1 se realizó el despliegue exitoso del Landing Page utilizand
 
 Durante este sprint, la colaboración se gestionó íntegramente a través de GitHub. Se utilizaron Pull Requests (PRs) para integrar el trabajo de la rama `develop` a `main`.
 
-*(Ve a la pestaña "Insights" > "Contributors" de tu repositorio de GitHub y toma una captura donde se vean los commits de todos los miembros del equipo)*
-![Team Collaboration Sprint 1](../assets/sprints/sprint1-collaboration.png)
+>LANDING PAGE: 
 
+![Team Collaboration Sprint 1](../assets/img/landingpage-contributors.png)
+
+>REPORT:
+
+![Team Collaboration Sprint 2](../assets/img/chapter-v/report-contributors.png)
