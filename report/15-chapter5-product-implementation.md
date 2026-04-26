@@ -200,7 +200,37 @@ Ejemplo en código:
 
 #### 5.2.1.1. Sprint Planning 1
 
+El Sprint 1 está dedicado exclusivamente a establecer la presencia digital de la startup mediante el diseño, desarrollo y despliegue de la primera versión del Landing Page de GoldCheck.
+
+| Campo | Detalle |
+|:------|:--------|
+| **Sprint #** | Sprint 1 |
+| **Date** | `2026-04-15` |
+| **Time** | `6:00 pm` |
+| **Location** | Reunión virtual por Discord |
+| **Prepared By** | `[Nombre del Team Leader del grupo]` |
+| **Attendees** | Armestar Felipa, Adrian / García Paredes, Victor / Navarro Aldoradin, Carolina / Philco Mota, Katty / Tuesta Girón, Kiara |
+| **Sprint 0 Review Summary** | Se definieron los perfiles de la startup, la problemática del sector minero y los segmentos objetivos (Empresas mineras, joyerías y consumidores finales). Se establecieron los repositorios y la organización en GitHub. |
+| **Sprint 0 Retrospective Summary** | El equipo coincide en la necesidad de mejorar la comunicación asíncrona y respetar los tiempos de revisión de Pull Requests. |
+| **Sprint 1 Goal** | **Our focus is on** delivering the first functional version of the Goldmetrics Landing Page. **We believe it delivers** a clear presentation of our value proposition regarding mineral traceability **to** our target segments (miners, jewelers, consumers). **This will be confirmed when** visitors can access the live website and understand the problem we solve and the features we offer. |
+| **Sprint 1 Velocity** | 20 Story Points |
+| **Sum of Story Points** | `16` |
+
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+Para este primer Sprint enfocado en el Landing Page y la configuración inicial de los proyectos, la distribución de liderazgo (L) y colaboración (C) es la siguiente:
+
+| Team Member (Last Name, First Name) | GitHub Username | UI/UX Design (Figma) | Landing Page Layout (HTML/CSS) | Landing Page Interactivity (JS) | DevOps & Deployment |
+|:-----------------------------------:|:---------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| Armestar Felipa, Adrian Andres | `[su-username]` | C | L | C | C |
+| García Paredes, Victor Manuel | `[su-username]` | C | L | L | C |
+| Navarro Aldoradin, Carolina Celeste | `[su-username]` | L | L | L | C |
+| Philco Mota, Katty Yolanda | `[su-username]` | C | C | C | L |
+| Tuesta Girón, Kiara Lucia | `[su-username]` | C | C | L | C |
+
+> **L** = Leader &nbsp;|&nbsp; **C** = Collaborator
+
 
 #### 5.2.1.3. Sprint Backlog 1
 
