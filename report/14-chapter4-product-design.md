@@ -245,8 +245,134 @@ https://www.figma.com/design/QbycMaaRmv7o2nCa9J8dPs/Wireframes-y-Mockups-GoldMet
 <img src="../assets/img/chapter-iv/Mockup/Usuario Final - Vincular Joya.png" width="300"/>
 
 ### 4.4.3. Web Applications User Flow Diagrams
+### Happy Path 1 – Joyería: Validación de lote y registro de joya
+
+**Flujo principal:**
+
+1. Joyero ingresa al sistema  
+2. Accede a “Validar Lote”  
+3. Ingresa ID del lote  
+
+4. El sistema muestra:
+   - Peso registrado  
+   - Origen   
+
+5. El joyero realiza el pesaje físico del material  
+
+**Decisión:**
+- ¿El peso coincide (dentro de tolerancia)?  
+  - No → Cancelar
+  - Sí → Continuar  
+
+6. Confirmar recepción  
+7. El sistema registra el evento en blockchain  
+
+8. El joyero registra nueva joya:
+   - Nombre
+   - Descripción  
+
+9. Publicar certificado digital  
+10. Generar código QR de la joya
+
+<img src="../assets/img/chapter-iv/userflows/happy joyeria.jpeg" width="300"/>
+
+
+### Happy Path 2 – Minería: Registro de nuevo lote
+
+**Flujo principal:**
+
+1. Operador Minero inicia sesión  
+2. Accede a “Registrar Lote”  
+
+3. Ingresa:
+   - Origen / yacimiento  
+   - Carro de transporte  
+
+4. Hace clic en “Capturar pesaje”  
+5. El sistema registra el peso del lote  
+
+**Decisión:**
+- ¿Pesaje válido?  
+  - No → Retroceder
+  - Sí → Continuar  
+
+6. Confirmar registro del lote  
+7. El sistema genera ID del lote  
+8. Se asocia el lote al camión  
+
+9. El sistema muestra:
+   - Ubicación del camión en tiempo real  
+
+10. Estado del lote: “En Origen” 
+
+<img src="../assets/img/chapter-iv/userflows/happy mineria.jpeg" width="300"/>
+
+
+### Happy Path 3 – Usuario final: Vincular joya
+
+**Flujo principal:**
+
+1. Usuario accede a la plataforma  
+2. Hace clic en “Vincular joya”  
+3. Ingresa ID de la joya  
+
+**Decisión:**
+- ¿ID válido?  
+  - No → Mostrar error y permitir reintento  
+  - Sí → Continuar  
+
+4. Hace clic en “Validar y vincular”  
+5. El sistema verifica la autenticidad  
+
+6. El sistema:
+   - Vincula la joya al usuario  
+   - La guarda en su perfil  
+
+7. El usuario visualiza:
+   - Certificado digital  
+   - Trazabilidad de la joya
+
+<img src="../assets/img/chapter-iv/userflows/happy usuario.jpeg" width="300"/>
+
+
+### Unhappy Path – Desvío de ruta del camión
+
+**Flujo principal:**
+
+1. El sistema monitorea la ubicación del camión  
+2. Detecta una desviación de ruta  
+
+**Decisión:**
+- ¿La ruta coincide con la planificada?  
+  - Sí → Continúa flujo normal  
+  - No → Generar alerta  
+
+3. El usuario (Administrador/Supervisor) accede a “Ver detalles”  
+
+4. El sistema muestra:
+   - Ubicación actual del camión  
+   - Número de lote  
+   - Conductor  
+   - Teléfono  
+   - Mapa de ruta  
+
+**Decisión:**
+- ¿Es una desviación real?  
+  - No → Marcar como “Falsa alarma”  
+  - Sí → Continuar  
+
+5. Opciones disponibles:
+   - Llamar al conductor  
+   - Congelar lote  
+   - Notificar a seguridad  
+
+6. Estado del lote: “Anomalía” 
+
+<img src="../assets/img/chapter-iv/userflows/unhappy.jpeg" width="300"/>
 
 ## 4.5. Web Applications Prototyping
+Prototipo de la aplicación web GoldMetric en Figma:
+https://www.figma.com/design/7O7yxNUaLKdHpT7T4GyrSh/WIRFRAME-4?node-id=0-1&t=9KcYAtK3HDnZEl7w-1
 
 ## 4.6. Domain-Driven Software Architecture
 GoldMetrics utiliza el enfoque de Domain-Driven Design (DDD) con el fin de facilitar la colaboración entre developers y expertos en el sector. Para esto, el sistema utiliza una organización entre 11 Bounded Context independientes de manera que logramos separar claramente las responsabilidades. Con esto también resaltamos las funcionalidades clave para hacer del proyecto altamente escalable de manera que se pueda incrementar la eficiencia de  procesos como el mantenimiento o la escalación. 

@@ -1,4 +1,5 @@
 input-files:
+  - README.md
   - report/01-student-outcome.md
   - report/11-chapter1-introduction.md
   - report/12-chapter2-requirements-elicitation.md
@@ -6,7 +7,7 @@ input-files:
   - report/14-chapter4-product-design.md
   - report/15-chapter5-product-implementation.md
 
-output-file: informe-final.pdf
+output-file: upc-pre-202610-1asi0730-12053-goldmetrics-report-av1.pdf
 
 pdf-engine: xelatex
 
@@ -15,3 +16,5 @@ resource-path:
   - assets
 
 file-scope: true
+
+number-sections: true
