@@ -1,0 +1,17 @@
+input-files:
+  - report/01-student-outcome.md
+  - report/11-chapter1-introduction.md
+  - report/12-chapter2-requirements-elicitation.md
+  - report/13-chapter3-requirements-specification.md
+  - report/14-chapter4-product-design.md
+  - report/15-chapter5-product-implementation.md
+
+output-file: informe-final.pdf
+
+pdf-engine: xelatex
+
+resource-path:
+  - .
+  - assets
+
+file-scope: true
