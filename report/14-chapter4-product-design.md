@@ -96,7 +96,7 @@ En el segundo nivel de abstracción, se ha diseñado una arquitectura altamente 
 **Material Operations**
 ![Diagrama de contexto 4](../assets/img/chapter-iv/context-diagram-4.png)
 
-**Inventory & Certification**
+**Jewelry Inventory & Certification**
 ![Diagrama de contexto 5](../assets/img/chapter-iv/context-diagram-5.png)
 
 **Consumer Traceability**
@@ -122,6 +122,28 @@ En el segundo nivel de abstracción, se ha diseñado una arquitectura altamente 
 ### 4.7.1. Class Diagrams
 A continuación se presentaran los diagramas de clases de los respectivos bounded context.
 
+**Identity & Access Management**
+![Diagrama de clase 1](../assets/img/chapter-iv/class-diagram-identity.png)
+**Fleet Operations**
+![Diagrama de clase 2](../assets/img/chapter-iv/class-diagram-fleet.png)
+**Assist & Maintenance Management**
+![Diagrama de clase 3](../assets/img/chapter-iv/class-diagram-asset.png)
+**Material Operations**
+![Diagrama de clase 4](../assets/img/chapter-iv/class-diagram-material.png)
+**Jewelry Inventory & Certification**
+![Diagrama de clase 5](../assets/img/chapter-iv/class-diagram-jewelry.png)
+**Consumer Traceability**
+![Diagrama de clase 6](../assets/img/chapter-iv/class-diagram-consumer.png)
+**Analytics**
+![Diagrama de clase 7](../assets/img/chapter-iv/class-diagram-analytics.png)
+**Monitoring & Telemetry**
+![Diagrama de clase 8](../assets/img/chapter-iv/class-diagram-monitoring.png)
+**Incident Management**
+![Diagrama de clase 9](../assets/img/chapter-iv/class-diagram-incident.png)
+**Reporting & Notificacions**
+![Diagrama de clase 10](../assets/img/chapter-iv/class-diagram-reporting.png)
+**Subscripcions & Billing**
+![Diagrama de clase 11](../assets/img/chapter-iv/class-diagram-subscriptions.png)
 
 ## 4.8. Database Design
 
