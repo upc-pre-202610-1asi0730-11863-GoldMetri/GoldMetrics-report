@@ -227,7 +227,7 @@ Para este primer Sprint enfocado en el Landing Page y la configuración inicial 
 | García Paredes, Victor Manuel | `vicmacode` | C | L | L | C |
 | Navarro Aldoradin, Carolina Celeste | `genixmvp` | L | L | L | C |
 | Philco Mota, Katty Yolanda | `kattyph` | C | C | C | L |
-| Tuesta Girón, Kiara Lucia | `kitu05g` | C | C | L | C |
+| Tuesta Girón, Kiara Lucia | `kitu05g` | L | C | L | C |
 
 > **L** = Leader &nbsp;|&nbsp; **C** = Collaborator
 
@@ -253,26 +253,51 @@ Durante el Sprint 1, el equipo se enfocó en establecer la base técnica de Bran
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:-------------------:|
-| `goldmetrics/landing-page` | `main` | `14ca4e3` | `feat: add hero section` | `Implemented responsive hero section with main CTA` | `2026-04-25` |
-| `goldmetrics/landing-page` | `feature/segments` | ` a1b2c3d` | `feat: add user segments cards` | `Created cards for miners, jewelers and consumers` | `2026-04-25` |
-| `goldmetrics/landing-page` | `main` | `9f8e7d6` | `style: update color palette` | `Applied Goldmetrics brand colors to the layout` | `2026-04-25` |
+| `goldmetrics/website` | `main` | `14ca4e3` | `feat: add hero section` | `Implemented responsive hero section with main CTA` | `2026-04-25` |
+| `goldmetrics/website` | `develop` | ` a1b2c3d` | `feat: add user segments cards` | `Created cards for miners, jewelers and consumers` | `2026-04-25` |
+| `goldmetrics/website` | `main` | `9f8e7d6` | `style: update color palette` | `Applied Goldmetrics brand colors to the layout` | `2026-04-25` |
 
 ---
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+En este primer Sprint se ha logrado el diseño y codificación del Landing Page estático, el cual incluye las secciones de "Hero", "Beneficios/Características" y "Público Objetivo" (empresas mineras, joyerías y consumidores). La interfaz es 100% responsiva (adaptable a dispositivos móviles y escritorio).
+
+![Landing Page Desktop 1](../assets/img/home-page.png)
+![Landing Page Desktop 2](../assets/img/home-page.png)
+![Landing Page Desktop 3](../assets/img/about-us.png)
+![Landing Page Desktop 4](../assets/img/hows-work.png)
+![Landing Page Desktop 5](../assets/img/faqs-page.png)
+![Landing Page Desktop 6](../assets/img/contact-page.png)
+![Landing Page Desktop 7](../assets/img/footer.png)
+
+
+**URL del Landing Page Desplegado:** [https://vocal-sunburst-4c90ad.netlify.app/](`[URL]`)
+
+---
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+> *Para el Sprint 1, enfocado estrictamente en la implementación y despliegue del Landing Page, esta sección no aplica. La documentación de los Web Services mediante OpenAPI / Swagger se implementará en los sprints posteriores.*
+
+---
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 1 se realizó el despliegue exitoso del Landing Page utilizando la plataforma Netifly.
+1. Se creó una cuenta en la plataforma utilizando el correo del equipo.
+2. Se vinculó la cuenta con la organización de GitHub de Goldmetrics.
+3. Se importó el repositorio `goldmetrics-website`.
+4. Se configuró el autodespliegue asociado a la rama `main`.
+
+
+![Deployment Evidence 1](../assets/img/despliegue.png)
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-## 5.3. Validation Interviews
+Durante este sprint, la colaboración se gestionó íntegramente a través de GitHub. Se utilizaron Pull Requests (PRs) para integrar el trabajo de la rama `develop` a `main`.
 
-### 5.3.1. Diseño de Entrevistas
+*(Ve a la pestaña "Insights" > "Contributors" de tu repositorio de GitHub y toma una captura donde se vean los commits de todos los miembros del equipo)*
+![Team Collaboration Sprint 1](../assets/sprints/sprint1-collaboration.png)
 
-### 5.3.2. Registro de Entrevistas
-
-### 5.3.3. Evaluaciones según heurísticas
-
-## 5.4. Video About-the-Product
