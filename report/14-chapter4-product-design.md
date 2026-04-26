@@ -73,7 +73,9 @@ A continuación, se muestra la matriz de interdependencias entre los módulos:
 Para visualizar el Event Storming de mejor manera recomendamos ingresar al siguiente link:
 [Visualizar EventStorming en Miro](https://miro.com/app/board/uXjVJeWDqwE=/?share_link_id=757586972674)
 ### 4.6.2. Software Architecture Context Diagram
+El diagrama de contexto establece los límites de la plataforma GoldCheck y su interacción con los diferentes perfiles de usuario y sistemas externos críticos para el negocio.
 
+![Diagrama de contexto](../assets/img/chapter-iv/container-diagram-frontend.png)
 ### 4.6.3. Software Architecture Container Diagrams
 
 ### 4.6.4. Software Architecture Components Diagrams
