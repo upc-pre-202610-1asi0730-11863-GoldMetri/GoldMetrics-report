@@ -85,10 +85,43 @@ En el segundo nivel de abstracción, se ha diseñado una arquitectura altamente 
 **Backend:**
 ![Diagrama de contenedores backend](../assets/img/chapter-iv/container-diagram-backend.png)
 ### 4.6.4. Software Architecture Components Diagrams
+**Identity & Access Management**
+![Diagrama de contexto 1](../assets/img/chapter-iv/context-diagram-1.png)
+**Fleet Operations**
+![Diagrama de contexto 2](../assets/img/chapter-iv/context-diagram-2.png)
+
+**Assist & Maintenance Management**
+![Diagrama de contexto 3](../assets/img/chapter-iv/context-diagram-3.png)
+
+**Material Operations**
+![Diagrama de contexto 4](../assets/img/chapter-iv/context-diagram-4.png)
+
+**Inventory & Certification**
+![Diagrama de contexto 5](../assets/img/chapter-iv/context-diagram-5.png)
+
+**Consumer Traceability**
+![Diagrama de contexto 6](../assets/img/chapter-iv/context-diagram-6.png)
+
+**Analytics**
+![Diagrama de contexto 7](../assets/img/chapter-iv/context-diagram-7.png)
+
+**Monitoring & Telemetry**
+![Diagrama de contexto 8](../assets/img/chapter-iv/context-diagram-8.png)
+
+**Incident Management**
+![Diagrama de contexto 9](../assets/img/chapter-iv/context-diagram-9.png)
+
+**Reporting & Notificacions**
+![Diagrama de contexto 10](../assets/img/chapter-iv/context-diagram-10.png)
+
+**Subscripcions & Billing**
+![Diagrama de contexto 11](../assets/img/chapter-iv/context-diagram-11.png)
 
 ## 4.7. Software Object-Oriented Design
-A continuación se presentaran los diagramas de clases de los respectivos bounded context.
+
 ### 4.7.1. Class Diagrams
+A continuación se presentaran los diagramas de clases de los respectivos bounded context.
+
 
 ## 4.8. Database Design
 
