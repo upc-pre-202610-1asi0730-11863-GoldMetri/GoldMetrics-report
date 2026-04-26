@@ -23,11 +23,11 @@
 
 | INTEGRANTES | CÓDIGO |
 | :---: | :---: |
-| Armestar Felipa, Adiran Andres | U202410084 |
-| García Paredes, Victor Manuel | U |
+| Armestar Felipa, Adrian Andres | U202410084 |
+| García Paredes, Victor Manuel | U202012001 |
 | Navarro Aldoradin, Carolina Celeste  | U20241B962 |
 | Philco Mota, Katty Yolanda | U202416107 |
-| Tuesta Girón, Kiara Lucia | U |
+| Tuesta Girón, Kiara Lucia | U20251i477 |
 
 <!-- Cover -->
 <div align="center">
@@ -217,5 +217,7 @@
   - [5.3.3. Evaluaciones según heurísticas](./report/15-chapter5-product-implementation.md#533-evaluaciones-según-heurísticas)
 
 - [5.4. Video About-the-Product](./report/15-chapter5-product-implementation.md#54-video-about-the-product)
+
+- [Anexos](./report/15-chapter5-product-implementation.md#55-Anexos)
 
 <div style="page-break-after: always"></div>
