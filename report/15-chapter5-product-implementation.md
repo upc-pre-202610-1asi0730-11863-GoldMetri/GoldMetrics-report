@@ -223,11 +223,11 @@ Para este primer Sprint enfocado en el Landing Page y la configuración inicial 
 
 | Team Member (Last Name, First Name) | GitHub Username | UI/UX Design (Figma) | Landing Page Layout (HTML/CSS) | Landing Page Interactivity (JS) | DevOps & Deployment |
 |:-----------------------------------:|:---------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Armestar Felipa, Adrian Andres | `[su-username]` | C | L | C | C |
-| García Paredes, Victor Manuel | `[su-username]` | C | L | L | C |
-| Navarro Aldoradin, Carolina Celeste | `[su-username]` | L | L | L | C |
-| Philco Mota, Katty Yolanda | `[su-username]` | C | C | C | L |
-| Tuesta Girón, Kiara Lucia | `[su-username]` | C | C | L | C |
+| Armestar Felipa, Adrian Andres | `Adrian5102` | C | L | C | C |
+| García Paredes, Victor Manuel | `vicmacode` | C | L | L | C |
+| Navarro Aldoradin, Carolina Celeste | `genixmvp` | L | L | L | C |
+| Philco Mota, Katty Yolanda | `kattyph` | C | C | C | L |
+| Tuesta Girón, Kiara Lucia | `kitu05g` | C | C | L | C |
 
 > **L** = Leader &nbsp;|&nbsp; **C** = Collaborator
 
