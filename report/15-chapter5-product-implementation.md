@@ -208,7 +208,7 @@ El Sprint 1 está dedicado exclusivamente a establecer la presencia digital de l
 | **Date** | `2026-04-15` |
 | **Time** | `6:00 pm` |
 | **Location** | Reunión virtual por Discord |
-| **Prepared By** | `[Nombre del Team Leader del grupo]` |
+| **Prepared By** | `Philco Mota, Katty` |
 | **Attendees** | Armestar Felipa, Adrian / García Paredes, Victor / Navarro Aldoradin, Carolina / Philco Mota, Katty / Tuesta Girón, Kiara |
 | **Sprint 0 Review Summary** | Se definieron los perfiles de la startup, la problemática del sector minero y los segmentos objetivos (Empresas mineras, joyerías y consumidores finales). Se establecieron los repositorios y la organización en GitHub. |
 | **Sprint 0 Retrospective Summary** | El equipo coincide en la necesidad de mejorar la comunicación asíncrona y respetar los tiempos de revisión de Pull Requests. |
