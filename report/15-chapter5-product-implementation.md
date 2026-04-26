@@ -272,7 +272,7 @@ En este primer Sprint se ha logrado el diseño y codificación del Landing Page 
 ![Landing Page Desktop 7](../assets/img/footer.png)
 
 
-**URL del Landing Page Desplegado:** [https://vocal-sunburst-4c90ad.netlify.app/](`[URL]`)
+**URL del Landing Page Desplegado:** [lucky-rolypoly-aaac25.netlify.app](`[URL]`)
 
 
 
